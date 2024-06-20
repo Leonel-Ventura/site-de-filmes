@@ -38,5 +38,8 @@ A aplicação estará disponível em http://localhost:5173.
 1. **Link do Repositório**:  `https://github.com/Leonel-Ventura/teste-front`
 2. Link do projecto hospedado: 
 3. **Capturas de Tela**: 
+![Captura de Ecrã (2)](https://github.com/Leonel-Ventura/teste-front/assets/112353107/ea7b63a8-041a-43b9-b98e-0858e250250a)
+![Captura de Ecrã (3)](https://github.com/Leonel-Ventura/teste-front/assets/112353107/34f95b26-54ba-4250-9f5f-1ca9a8525c63)
+![Captura de Ecrã (1)](https://github.com/Leonel-Ventura/teste-front/assets/112353107/4a34bb02-00c8-401c-b6e0-402e025dd5be)
 
 
