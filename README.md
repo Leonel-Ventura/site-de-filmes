@@ -1,4 +1,4 @@
-# CineClick - Uma Plataforma de Busca de Filmes
+# CineClick - Uma Plataforma de Pesquisa de Filmes
 
 CineClick é uma aplicação web que permite aos usuários pesquisar e descobrir uma vasta coleção de filmes. Desenvolvida com foco na experiência do usuário e na estética visual, a plataforma oferece uma interface intuitiva e responsiva que facilita a busca e a visualização de informações sobre filmes.
 
