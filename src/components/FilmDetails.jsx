@@ -5,7 +5,7 @@ export function FilmDetails({data}) {
     }
 
     return(
-        <div className="max-w-4xl mx-auto flex flex-col md:flex-row items-center md:items-start space-y-4 md:space-y-0 md:space-x-6">
+        <div className="px-10 max-w-4xl mx-auto flex flex-col md:flex-row items-center md:items-start space-y-4 md:space-y-0 md:space-x-6">
             <img src={data.Poster} alt="Fast &amp; Furious 6" className="w-full md:w-1/3 rounded-lg shadow-lg"/>
             <div className="flex flex-col space-y-4">
                 <h1 className="text-4xl font-bold"> {data.Title}</h1>
