@@ -36,7 +36,7 @@ A aplicação estará disponível em http://localhost:5173.
 ### Notas Adicionais:
 
 1. **Link do Repositório**:  `https://github.com/Leonel-Ventura/teste-front`
-2. Link do projecto hospedado: 
+2. Link do projecto hospedado: `https://teste-front-phi.vercel.app/`
 3. **Capturas de Tela**:
 ![Captura de Ecrã (1)](https://github.com/Leonel-Ventura/teste-front/assets/112353107/4a34bb02-00c8-401c-b6e0-402e025dd5be)
 ![Captura de Ecrã (2)](https://github.com/Leonel-Ventura/teste-front/assets/112353107/ea7b63a8-041a-43b9-b98e-0858e250250a)
