@@ -13,7 +13,7 @@ export function FormSeach() {
     
     return (
         <form onSubmit={handleSubmitSearch} className="m-2.5 p-2.5 flex">
-            <input className="border p-1.5 border-gray-300 rounded-md " type="search" name="pesquisar" id="pesquisar" 
+            <input required className="border p-1.5 border-gray-300 rounded-md " type="search" name="pesquisar" id="pesquisar" 
             value={keyword}
             onChange={(evt)=>setKeyword(evt.target.value)}
             placeholder="procure o seu filme"/>
