@@ -5,18 +5,18 @@ import { Link } from "react-router-dom";
 
 export default function Home() {
 
-    const [data, setData] = useState([])
+    const [listaFilmes, setListaFilmes] = useState([])
 
     const loadData = async ()=>{
         const response = await fetch(`https://www.omdbapi.com/?apikey=dd3fbe30&s=red&type=movie&page=1`);
         let data = await response.json();
 
-        setData(data.Search)
+       setListaFilmes(data.Search)
     }
 
     useEffect(()=>{
         loadData()
-    },[data.length])
+    },[listaFilmes.length])
     
     return (
        <div>
@@ -29,7 +29,7 @@ export default function Home() {
                 <FormSeach/>
             </div>
             
-            <FilmsList data={data} />
+            <FilmsList data={listaFilmes} />
        </div> 
     )
 }

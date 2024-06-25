@@ -11,7 +11,7 @@ CineClick é uma aplicação web que permite aos usuários pesquisar e descobrir
 
 ## Tecnologias Utilizadas
 
-- **Javascrist**: Superset de JavaScript que adiciona tipos estáticos e outras funcionalidades.
+- **Javascrist**: JavaScript é uma linguagem de programação popular e versátil utilizada principalmente para desenvolvimento web. Ela permite criar funcionalidades interativas em páginas da web, desde animações simples até aplicações complexas. JavaScript é conhecida por ser uma linguagem de script do lado do cliente, o que significa que é executada no navegador da web do usuário, proporcionando interatividade dinâmica e modificando o conteúdo da página em tempo real..
 - **React.js**: Biblioteca JavaScript de código aberto para criar interfaces de usuário.
 - **Vite**: Ferramenta de build rápida e moderna para desenvolvimento web.
 - **Tailwind CSS**: Framework de CSS utilitário para estilizar rapidamente componentes.

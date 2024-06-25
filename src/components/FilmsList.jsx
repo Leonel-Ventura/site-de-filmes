@@ -6,7 +6,7 @@ export function FilmsList({data}) {
     }
 
     return(
-        <div className="px-10 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-5">
+        <div className="px-10 grid grid-cols-1 md:grid-cols-3 lg:grid-cols-4 gap-5 ">
             {data.map(item=>(
                  <div key={item.imdbID} className="max-w-sm rounded overflow-hidden shadow-lg h-80 ">
                     <div className="h-[65%] border overflow-hidden">

@@ -7,8 +7,9 @@ export function FormSeach() {
 
    const handleSubmitSearch = (event)=>{
     event.preventDefault();
+    const value = keyword.trim();
     
-    navigate(`/pesquisa/${keyword}`);
+    navigate(`/pesquisa/${value}`);
    }
     
     return (
